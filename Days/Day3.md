@@ -5,7 +5,7 @@ ___
 
 Today i got introduced to intermediate level of HTML so let's begin with today learnings.
 
-####Table
+#### Table
 
 Table is an HTML element , the reason of it's existance is that it help in organising layout of other element of HTML.
 
@@ -39,7 +39,7 @@ as most of browser used today's are smart enough to understand the usage without
 [tbody](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/tbody)
 Also learned about some attribute such as cell spacing and border Created a Nested table for code challenge as well.
 
-####Form
+#### Form
 
 Form element of HTML use to submit some information.
 ```html
