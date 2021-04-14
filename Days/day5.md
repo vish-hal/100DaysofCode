@@ -3,7 +3,7 @@ ___
 ### Section 5 of [Web Dev Course by Dr. Angela Yu](https://www.udemy.com/course/the-complete-web-development-bootcamp)
 ___
 
-####Intermedaite CSS
+#### Intermedaite CSS
 
 ##### Setup for this section
 Today we started  with  a new website just created  index.html and it's css file , also made some changes into css file to change backgroud color.
