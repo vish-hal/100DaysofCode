@@ -48,7 +48,15 @@ Form element of HTML use to submit some information.
 <input type="text" name ="" value="">
 <--attribute  type can be used to get desired result.
  we can change it's value to password,email,file,submit,date,radio,range,number .... and so on.-->
+ </form>
 
+<textarea name="msg" rows="10" cols="15">
+</textarea>
+
+
+<from action:"mailto:vishalsharmagzb1@gmail.com" method="post" enctype="text/plaintext"></from>
+<--it will mail the input field value which have name to vishalsharmagzb1@gmail.com
+-->
 ```
 
 [form:attributes](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/form#attributes)
